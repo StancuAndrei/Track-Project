@@ -1,0 +1,15 @@
+{
+    "name": "track-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://StancuAndrei.github.io/Track-Project",
+    "dependencies": {
+        "gh-pages": "^2.2.0"
+    }
+}
